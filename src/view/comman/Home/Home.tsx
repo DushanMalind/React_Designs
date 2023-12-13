@@ -23,11 +23,9 @@ export class Home extends Component {
                         <img className="card-image rounded w-8/12 m-auto" src={card1}
                              alt="Sunset in the mountains"/>
                         <div className="px-6 py-4">
-                            <div className="font-bold text-xl mb-2 ml-8">The Coldest Sunset</div>
+                            <div className="font-bold text-xl mb-2 ml-8">Best Price Guarantee</div>
                             <p className="text-gray-700 text-base">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla!
-                                Maiores et
-                                perferendis eaque, exercitationem praesentium nihil.
+                                A small river named Duden flows by their place and supplies.
                             </p>
                         </div>
                         <div className="px-3 py-2  ">
@@ -45,11 +43,9 @@ export class Home extends Component {
                         <img className="card-image rounded w-8/12 m-auto" src={card2}
                              alt="Sunset in the mountains"/>
                         <div className="px-6 py-4">
-                            <div className="font-bold text-xl mb-2 ml-8">The Coldest Sunset</div>
+                            <div className="font-bold text-xl mb-2 ml-8">Best Price Guarantee</div>
                             <p className="text-gray-700 text-base">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla!
-                                Maiores et
-                                perferendis eaque, exercitationem praesentium nihil.
+                                A small river named Duden flows by their place and supplies.
                             </p>
                         </div>
                         <div className="px-3 py-2  ">
@@ -67,11 +63,9 @@ export class Home extends Component {
                         <img className="card-image rounded w-8/12 m-auto" src={card3}
                              alt="Sunset in the mountains"/>
                         <div className="px-6 py-4">
-                            <div className="font-bold text-xl mb-2 ml-8">The Coldest Sunset</div>
+                            <div className="font-bold text-xl mb-2 ml-8">Best Price Guarantee</div>
                             <p className="text-gray-700 text-base">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla!
-                                Maiores et
-                                perferendis eaque, exercitationem praesentium nihil.
+                                A small river named Duden flows by their place and supplies.
                             </p>
                         </div>
                         <div className="px-3 py-2  ">
@@ -89,11 +83,9 @@ export class Home extends Component {
                         <img className="card-image rounded w-8/12 m-auto" src={card4}
                              alt="Sunset in the mountains"/>
                         <div className="px-6 py-4">
-                            <div className="font-bold text-xl mb-2 ml-8">The Coldest Sunset</div>
+                            <div className="font-bold text-xl mb-2 ml-8">Best Price Guarantee</div>
                             <p className="text-gray-700 text-base">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla!
-                                Maiores et
-                                perferendis eaque, exercitationem praesentium nihil.
+                                A small river named Duden flows by their place and supplies.
                             </p>
                         </div>
                         <div className="px-3 py-2  ">

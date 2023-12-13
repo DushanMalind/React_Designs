@@ -2,7 +2,7 @@
 {
     width: 100%;
     height: 100%;
-    /*background-image: url("../../../image/card8.jpg");*/
+    background-image: url("../../../image/card8.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -64,3 +64,27 @@
     transform: translateY(0);
 }
 
+#home p
+{
+    color: white;
+}
+
+
+#home .card:hover
+{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+    padding: 20px;
+    font-weight: bold;
+    color: white;
+    transition: 1.5s;
+    background-color: red;
+    animation: animate 5.5s ease-in-out infinite;
+}
+
+@keyframes animate {
+    0% {
+        transition: 1.5s;
+        transform: skew(2grad) rotate3d(4, 1, 1, 4deg);
+    }
+}
